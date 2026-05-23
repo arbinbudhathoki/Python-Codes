@@ -1,2 +1,4 @@
 # Python-Codes
 This are the Pyhton code, I completed from taking the classes from Data Engineering.
+
+These codes will help you in real life. Some of the data 
