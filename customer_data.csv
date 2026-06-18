@@ -1,0 +1,5 @@
+CustomerID,CustomerName,Email,Country,CustomerSegment
+C101,John Smith,john@test.com,USA,Premium
+C102,Sarah Lee,sarah@test.com,Canada,Premium
+C104,David Brown,david@test.com,UK,Standard
+C105,Amit Kumar,amit@test.com,India,Premium

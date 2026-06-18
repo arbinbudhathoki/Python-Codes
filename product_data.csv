@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,CostPrice,SellingPrice
+P001,Laptop,Electronics,400,500
+P002,Phone,Electronics,900,1200
+P003,Mouse,Accessories,20,50
+P004,Keyboard,Accessories,150,250
+P005,Monitor,Electronics,300,400
